@@ -1,0 +1,6 @@
+[submodule "BenchmarkJava"]
+	path = BenchmarkJava
+	url = https://github.com/OWASP-Benchmark/BenchmarkJava
+[submodule "juice-shop"]
+	path = juice-shop
+	url = https://github.com/juice-shop/juice-shop
